@@ -13,6 +13,8 @@ public class ModItems {
 
     public void initializeItems() {
         register(ITEM, new Identifier(NAMESPACE, "pistol_ammo_fmj"), new Item(getSettings()));
+        register(ITEM, new Identifier(NAMESPACE, "pistol_ammo_ap"), new Item(getSettings()));
+        register(ITEM, new Identifier(NAMESPACE, "pistol_ammo_hp"), new Item(getSettings()));
     }
 
     private FabricItemSettings getSettings() {
