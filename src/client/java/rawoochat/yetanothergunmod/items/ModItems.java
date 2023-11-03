@@ -8,7 +8,7 @@ import static net.minecraft.registry.Registry.register;
 import static net.minecraft.registry.Registries.*;
 
 
-public class ModItems extends Items {
+public class ModItems {
     private static final String NAMESPACE = "yagm";
 
     public void initializeItems() {
