@@ -1,2 +1,2 @@
-# Rawoosa-Gun-Mod
+# Yet Another Gun Mod
 A humble attempt of creating another gun mod for Fabric.
