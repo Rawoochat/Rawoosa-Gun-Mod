@@ -1,4 +1,4 @@
-package rawoosa.gunmod.mixin;
+package rawoochat.yetanothergunmod.mixin;
 
 import net.minecraft.server.MinecraftServer;
 import org.spongepowered.asm.mixin.Mixin;
