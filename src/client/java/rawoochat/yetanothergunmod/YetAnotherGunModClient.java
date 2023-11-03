@@ -1,11 +1,11 @@
 package rawoochat.yetanothergunmod;
 
 import net.fabricmc.api.ClientModInitializer;
+import rawoochat.yetanothergunmod.items.Items;
 
 public class YetAnotherGunModClient implements ClientModInitializer {
 	@Override
 	public void onInitializeClient() {
-		// test
-		// This entrypoint is suitable for setting up client-specific logic, such as rendering.
+
 	}
 }
