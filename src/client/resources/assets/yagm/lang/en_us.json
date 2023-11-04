@@ -1,5 +1,6 @@
 {
   "item.yagm.pistol_ammo_ap": "Pistol Ammo (AP)",
   "item.yagm.pistol_ammo_fmj": "Pistol Ammo (FMJ)",
-  "item.yagm.pistol_ammo_hp": "Pistol Ammo (HP)"
+  "item.yagm.pistol_ammo_hp": "Pistol Ammo (HP)",
+  "itemGroup.yagm.main_item_group": "YAGM"
 }

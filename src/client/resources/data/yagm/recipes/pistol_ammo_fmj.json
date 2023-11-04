@@ -1,0 +1,23 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "I  ",
+    "G  ",
+    "L  "
+  ],
+  "key": {
+    "I": {
+      "item": "minecraft:iron_nugget"
+    },
+    "G": {
+      "item": "minecraft:gunpowder"
+    },
+    "L": {
+      "tag": "minecraft:planks"
+    }
+  },
+  "result": {
+    "item": "yagm:pistol_ammo_fmj",
+    "count": 4
+  }
+}

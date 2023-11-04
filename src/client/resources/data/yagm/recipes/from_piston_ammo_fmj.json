@@ -1,0 +1,11 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "yagm:pistol_ammo_fmj"
+    }
+  ],
+  "result": {
+    "item": "minecraft:gunpowder"
+  }
+}

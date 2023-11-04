@@ -1,5 +1,6 @@
 {
   "item.yagm.pistol_ammo_ap": "Пістолетний набій (БП)",
   "item.yagm.pistol_ammo_fmj": "Пістолетний набій (ЦМО)",
-  "item.yagm.pistol_ammo_hp": "Пістолетний набій (Експ.)"
+  "item.yagm.pistol_ammo_hp": "Пістолетний набій (Експ.)",
+  "itemGroup.yagm.main_item_group": "ЩОМНЗ"
 }
